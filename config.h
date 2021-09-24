@@ -8,8 +8,8 @@
 static char *font = "FiraCode Nerd Font Mono:pixelsize=24:antialias=true:autohint=true";
 static char *font2[] = {
 	"JoyPixels:pixelsize=24:antialias=true:autohint=true",
-  "LXGW WenKai Mono:pixelsize=24:antialias=true:autohint=true",
-  "Noto Sans Mono CJK:pixelsize=24:antialias=true:autohint=true"
+  //"LXGW WenKai Mono:pixelsize=24:antialias=true:autohint=true",
+  //"Noto Sans Mono CJK:pixelsize=24:antialias=true:autohint=true"
 };
 
 static int borderpx = 2;
